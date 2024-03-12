@@ -1,0 +1,1 @@
+A map showing flights from adsb.lol and adsb.one at three chosen locations. The markers are colorcoded with the navigation integrity control number "NIC" from the ADS-B messages brodcasted from the aircrafts.
