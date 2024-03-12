@@ -5,8 +5,8 @@ dash-table==5.0.0
 Flask==3.0.2
 folium==0.16.0
 numpy==1.26.4
-pandas==2.2.1
 plotly==5.19.0
 requests==2.31.0
+pandas
 gunicorn
 
